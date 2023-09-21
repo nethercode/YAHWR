@@ -3,9 +3,11 @@
 cd bash/ && bash run.sh && cd ..
 cd c/ && bash run.sh && cd ..
 cd go/ && bash run.sh && cd ..
+cd hs/ && bash run.sh && cd ..
 cd java/ && bash run.sh && cd ..
 cd js/ && bash run.sh && cd ..
 cd kt/ && bash run.sh && cd ..
+cd lisp/ && bash run.sh && cd ..
 cd lua/ && bash run.sh && cd ..
 cd php/ && bash run.sh && cd ..
 cd pl/ && bash run.sh && cd ..

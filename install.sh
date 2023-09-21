@@ -3,9 +3,11 @@
 # cd bash/ && bash install.sh && cd ..
 # cd c/ && bash install.sh && cd ..
 cd go/ && bash install.sh && cd ..
+cd hs/ && bash install.sh && cd ..
 cd java/ && bash install.sh && cd ..
 cd js/ && bash install.sh && cd ..
 cd kt/ && bash install.sh && cd ..
+cd lisp/ && bash install.sh && cd ..
 cd lua/ && bash install.sh && cd ..
 cd php/ && bash install.sh && cd ..
 # cd pl/ && bash install.sh && cd ..
