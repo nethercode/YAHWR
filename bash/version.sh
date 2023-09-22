@@ -2,4 +2,4 @@
 
 echo "Bash"
 echo "----"
-bash --version | grep GNU
+bash --version | grep bash

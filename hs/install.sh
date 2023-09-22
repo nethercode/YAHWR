@@ -1,3 +1,4 @@
 #!/bin/bash
 
-sudo apt install -y gh
+sudo apt update
+sudo apt install -y ghc

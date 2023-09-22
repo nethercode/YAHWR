@@ -10,6 +10,8 @@ echo "npm"
 echo "---"
 npm -v
 
+# echo
+
 # echo "nvm"
 # echo "---"
 # nvm -v
