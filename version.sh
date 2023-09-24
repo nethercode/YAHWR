@@ -3,6 +3,8 @@
 echo
 cd bash/ && bash version.sh && echo && cd ..
 cd c/ && bash version.sh && echo && cd ..
+cd cpp/ && bash version.sh && echo && cd ..
+cd cs/ && bash version.sh && echo && cd ..
 cd go/ && bash version.sh && echo && cd ..
 cd hs/ && bash version.sh && echo && cd ..
 cd java/ && bash version.sh && echo && cd ..

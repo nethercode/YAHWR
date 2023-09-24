@@ -24,6 +24,8 @@ The list of programming languages and their corresponding directories within thi
         "Language"      :   "Directory/",
         "Bash"          :   "bash/"
         "C"             :   "c/",
+        "C++"           :   "cpp/",
+        "C#"            :   "cs/",
         "Go"            :   "go/",
         "Haskell"       :   "hs/",
         "Java"          :   "java/",
