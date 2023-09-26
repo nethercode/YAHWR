@@ -1,6 +1,8 @@
-#include <iostream>
+#include <stdio.h>
+#include <stdlib.h>
 
-int main() {
-    std::cout << "Hello, World!" << std::endl;
-    return 0;
+int main(void)
+{
+  puts("Hello in C");
+  return EXIT_SUCCESS;
 }
